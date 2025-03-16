@@ -1,4 +1,4 @@
-![] (ma intro.png)
+![](ma dash 2.jpg)
 
 
 ## ABSTRACT
@@ -194,10 +194,9 @@ From the above dashboard, we can deduce that the total revenue earned by maven t
 
 
 ![](ma dash 2.png) 
+
+
 Sales peak during holidays like Christmas and Children’s Day. Maven Toys hits its sales peak from March to April which maintains its profit in the range of $645K to $668K. While the month with least sales of the year was October and the profit was $264K. The city of Cuidad de Mexico had more patronage with the highest profit by city. 
-
-
-
 
 
 
@@ -220,5 +219,6 @@ The research on Mexico Toy Sales for Maven Toys provided valuable insights into 
 •	Improve Inventory Management:  By Improving inventory management by leveraging historical sales data for more accurate forecasting.
 
 •	Strengthen Marketing Efforts: Implement targeted marketing campaigns during peak sales periods to maximize revenue. Develop targeted campaigns around major holidays and events to boost sales during peak periods.
-![](mexi .png)
+
+![](mexi,webp)
 
